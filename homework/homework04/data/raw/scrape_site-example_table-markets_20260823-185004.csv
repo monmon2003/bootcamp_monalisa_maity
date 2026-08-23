@@ -1,0 +1,36 @@
+Respondent Id,Name,Job Title,Favorite Color,Age
+120,Alice,CEO,Green,47
+121,Bob,Store Manager,Yellow,35
+122,Cai,Writer,Orange,38
+129,Daniela,Engineer,Pink,26
+…,…,…,…,…
+,Name,Job Title,Favorite Color,Age
+0,Alice,CEO,Green,47
+1,Bob,Store Manager,Yellow,35
+2,Cai,Writer,Orange,38
+3,Daniela,Engineer,Pink,26
+4,Erykah,Marketing,Blue,24
+,Name,Job Title,Favorite Color,Age
+0,Alice,CEO,Green,47
+1,Bob,Store Manager,Yellow,35
+2,Cai,Writer,Orange,38
+3,Daniela,Engineer,Pink,26
+4,Erykah,Marketing,Blue,24
+,Name,Job Title,Favorite Color,Age
+0,Alice,CEO,Green,47
+1,Bob,Store Manager,Yellow,35
+2,Cai,Writer,Orange,38
+3,Daniela,Engineer,Pink,26
+4,Erykah,Marketing,Blue,24
+,Name,Job Title,Favorite Color,Age
+a,Alice,CEO,Green,47
+b,Bob,Store Manager,Yellow,35
+c,Cai,Writer,Orange,38
+d,Daniela,Engineer,Pink,26
+e,Erykah,Marketing,Blue,24
+,Name,Job Title,Favorite Color,Age
+a,Alice,CEO,Green,47
+b,Bob,Store Manager,Yellow,35
+c,Cai,Writer,Orange,38
+d,Daniela,Engineer,Pink,26
+e,Erykah,Marketing,Blue,24
